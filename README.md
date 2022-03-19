@@ -7,6 +7,10 @@
 
 ## INTRO
 
+The Internet Movie Database, as known as IMDb, is an online database of information related to movies and TV shows – including cast, production crew and personal biographies, plot summaries, trivia, ratings, and fan and critical reviews. :movie_camera: :clapper:
+
+This article's objective is to analyze the Top 250 rated movies, according to users, and find out patterns among them.
+
 ## WEB SCRAPING
 
 Web scraping is the process of extracting data from a website in an automated way. In most cases, web scraping is not a simple task. Websites come in different structures, with many shapes and forms and, as a result, web scrapers vary in functionality and features.
@@ -38,7 +42,7 @@ Access the link below to check the code for formatting:
 
 > [Web Scraping Code](https://github.com/marcelocmachado/IMDb/blob/main/formattingCode.md) 
 
-After getting the data prepared, let's move to the analysis!
+After getting the data prepared, let's move to the analysis! :bar_chart: :chart_with_upwards_trend:
 
 ### TOP RATINGS
 
@@ -94,7 +98,7 @@ Who are the most frequent actors in the Top 250 movies?
 
 We already know the most popular Directors and Actors. But what are the **Average Ratings** of the movies they took part in?
 
-### AVG RATING FOR TOP DIRECTORS
+### AVERAGE RATING FOR TOP DIRECTORS
 
 The plot below shows the avarage rating for the most frequent directors among the Top 250 movies:
 
@@ -102,7 +106,7 @@ The plot below shows the avarage rating for the most frequent directors among th
 
 > _**Chirstopher Nolan**_, famous for the Batman Trilogy and Inception, has the highest average rating for his movies: **8.53/10**. After Nolan, Steven Spielberg (8.34), Martin Scorsese (8.3), Stanley Kubrick (8.29) and Akira Kurosawa have pretty similar averages.
 
-### AVG RATING FOR TOP ACTORS
+### AVERAGE RATING FOR TOP ACTORS
 
 Regarding actors, let's see who has the highest average ratings:
 
@@ -111,20 +115,30 @@ Regarding actors, let's see who has the highest average ratings:
 > _**Morgan Freeman**_, pushed by the Top 1 and Top 4 movies (The Shawshank Redemption and Dark Knight, respectively) leads the top rated actors, with an average of **8.57/10**. Tom Hanks, known for his main role in Forrest Gump, follows at the second place with an average of **8.45/10**.
 
 ### AVG RATING BY DECADE
+
+Next, we are going to analyze the decades with the highest average ratings:
+
 ![Screenshot](/plots/plot_avgRatDecade.png)
 
+> From what we can see from the graph, the **1990's** have the highest average rating: **8.36/10**. Three of the Top 10 rated movies are from the 90's: The Shawshank Redemption, Schindler's List and Pulp Fition. At the second place, the 1970's have an average rating of 8.29/10, and with two movies in the Top 10 ratings: The Godfather and The Godfather: Part II.
+
 ### AVG RUNTIME BY DECADE
+
+Do the decades in which the movies were released have an influence on the average duration of movies?
+
 ![Screenshot](/plots/plor_avgRunDecade.png)
 
+> In the 1920's, movies clearly lasted for a shorter time. From 1930's onward, the runtime of movies appear to be consistent, with the highest average durations being in the 2020's (147.2 minutes) and 1960's (141.11 minutes), at least within the Top 250 rated movies.
 
 ### RUNTIME DENSITY
+
+The next graph shows movies' duration density:
+
 ![Screenshot](/plots/plot_FreqRunTime.png)
 
 ### RATING DENSITY
+
+Finally, the last plot shows movie's ratings density: 
+
 ![Screenshot](/plots/plot_FreqRatings.png)
 
-```r
-some code
-
-data = aggregate(bla,bla,FUN=bla)
-```
