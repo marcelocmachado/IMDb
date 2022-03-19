@@ -38,7 +38,7 @@
 ![Screenshot](/plots/plot_topActors.png)
 
 ### AVG RATING BY DECADE
-![Screenshot](plot_avgRatDecade.png)
+![Screenshot](/plots/plot_avgRatDecade.png)
 
 ### AVG RUNTIME BY DECADE
 ![Screenshot](/plots/plor_avgRunDecade.png)
