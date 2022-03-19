@@ -17,7 +17,7 @@
 ### Displaying Top 10 Rated Movies Table
 
 ### TOP RATINGS
-![Screenshot](plot_topRatings.png)
+![Screenshot](/plots/plot_topRatings.png)
 
 ### TOP VOTES
 ![Screenshot](plot_topVotes.png)
