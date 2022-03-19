@@ -40,7 +40,7 @@ The table below shows the result the first ten rows of the scraping result. Some
 
 Access the link below to check the code for formatting:
 
-> [Web Scraping Code](https://github.com/marcelocmachado/IMDb/blob/main/formattingCode.md) 
+> [Formatting Code](https://github.com/marcelocmachado/IMDb/blob/main/formattingCode.md) 
 
 After getting the data prepared, let's move to the analysis! :bar_chart: :chart_with_upwards_trend:
 
