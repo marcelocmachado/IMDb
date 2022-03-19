@@ -14,30 +14,46 @@
 
 ### FORMATTING DATA
 
+### Displaying Top 10 Rated Movies Table
+
 ### TOP RATINGS
+![Screenshot](plot_topRatings.png)
 
 ### TOP VOTES
+![Screenshot](plot_topVotes.png)
 
 ### MOST FREQUENT GENRES
+![Screenshot](plot_topGenres.png)
+
+### MOST POPULAR GENRE COMBINATION
+![Screenshot](plot_topCombos.png)
 
 ### MOST FREQUENT YEARS
 
+
 ### MOST FREQUENT DIRECTORS
+![Screenshot](plot_topDirectors.png)
 
 ### MOST FREQUENT ACTORS
+![Screenshot](plot_topActors.png)
 
 ### AVG RATING BY DECADE
+![Screenshot](plot_avgRatDecade.png)
 
 ### AVG RUNTIME BY DECADE
+![Screenshot](plor_avgRunDecade.png)
 
-### MOST POPULAR GENRE BY DECADE
+### AVG RATING FOR TOP ACTORS
+![Screenshot](plot_avgRatActors.png)
 
-### MOST POPULAR GENRE COMBINATION
+### AVG RATING FOR TOP DIRECTORS
+![Screenshot](plot_avgRatDirect.png)
 
-### INFLUENCE OF ACTORS IN RATING
+### RUNTIME DENSITY
+![Screenshot](plot_FreqRunTime.png)
 
-### INFLUENCE OF DIRECTORS IN RATING
-
+### RATING DENSITY
+![Screenshot](plot_FreqRatings.png)
 
 ```r
 some code
