@@ -46,7 +46,7 @@ The following plot shows the Top 10 movies with the highest ratings:
 
 ![Screenshot](/plots/plot_topRatings.png)
 
-> _**The Sawshank Redemption**_ and _**The Godfather**_ feature at the top of the list with a rating of 9.2/10. Next, The Godfather: Part II, The Dark Knight and 12 Angry man follow the top 2 with a rating of 9/10.
+> _**The Sawshank Redemption**_ and _**The Godfather**_ feature at the top of the list with a rating of **9.2/10**. Next, The Godfather: Part II, The Dark Knight and 12 Angry man follow the top 2 with a rating of 9/10.
 
 ### TOP VOTES
 
@@ -54,7 +54,7 @@ Are the highest rated movies at the top because they received more votes? Let's 
 
 ![Screenshot](/plots/plot_topVotes.png)
 
-> _**The Sawshank Redemption**_ has the highest amount of votes, totaling 2.56 million votes. Not all Top 10 rated movies figure in the Top 10 most voted movies.
+> _**The Sawshank Redemption**_ has the highest amount of votes, totaling **2.56 million** votes. Not all Top 10 rated movies figure in the Top 10 most voted movies.
 
 ### MOST FREQUENT GENRES
 
@@ -62,7 +62,7 @@ Next, we're going to analyze the most popular genre among the Top 250 Movies.
 
 ![Screenshot](/plots/plot_topGenres.png)
 
-> _**Drama**_ is by far the most popular genre. It appears on 182 of the 250 movies. A movie can have more than one genre and 73% of them have the _'Drama'_ genre label. Following _Drama_, _Adventure_ (60), _Thriller_ (54), _Crime_ (51) and _Action_ (49) complete the Top 5 genres.
+> _**Drama**_ is by far the most popular genre. It appears on **182** of the 250 movies. A movie can have more than one genre and 73% of them have the _'Drama'_ genre label. Following _Drama_, _Adventure_ (60), _Thriller_ (54), _Crime_ (51) and _Action_ (49) complete the Top 5 genres.
 
 ### MOST POPULAR GENRE COMBINATION
 
@@ -76,12 +76,39 @@ _Drama_ might be the most popular genre by itself. But what are the most popular
 
 A film director manages the creative aspects of the production. They direct the making of a film by visualizing the script while guiding the actors and technical crew to capture the vision for the screen. They control the film’s dramatic and artistic aspects.
 
-The next plot shows the most frequent directors in the Top 250 Movies
+The next plot shows the most frequent directors in the Top 250 Movies:
 
 ![Screenshot](/plots/plot_topDirectors.png)
 
+> There are five directors tied at the top of the list: _**Steven Spielberg, Stanley Kubrick, Martin Scorsese, Christopher Nolan**_ and _**Akira Kurosawa.**_
+
 ### MOST FREQUENT ACTORS
+
+Casting is one of the most crucial parts of the filmmaking process because the actors' performances can significantly impact how audiences and critics receive a film. Choosing the right actor can enhance your project, while a miscast role can diminish a particular character’s believability, which can be detrimental to a film or TV show. Even if the character is unlikeable or an antihero, the audience must believe the actor’s performance to remain invested. Finding the right talent for a role can be challenging because it requires a mix of critical analysis, instinct, and good timing. [(Source)](https://github.com/marcelocmachado/IMDb/blob/main/scrapingCode.md) 
+
+Who are the most frequent actors in the Top 250 movies?
+
 ![Screenshot](/plots/plot_topActors.png)
+
+> _**Robert De Niro**_ figures at the top of the list with **9** appearences. De Niro is famous for his roles in movies such as The Godfather: Part II, Goodfellas and Taxi Driver - all three are in the Top 250. Following De Niro, Harrison Ford (7), Tom Hanks (6), Morgan Freeman (6) and Leonardo DiCaprio (6) have significant number of appearences.
+
+We already know the most popular Directors and Actors. But what are the **Average Ratings** of the movies they took part in?
+
+### AVG RATING FOR TOP DIRECTORS
+
+The plot below shows the avarage rating for the most frequent directors among the Top 250 movies:
+
+![Screenshot](/plots/plot_avgRatDirect.png)
+
+> _**Chirstopher Nolan**_, famous for the Batman Trilogy and Inception, has the highest average rating for his movies: **8.53/10**. After Nolan, Steven Spielberg (8.34), Martin Scorsese (8.3), Stanley Kubrick (8.29) and Akira Kurosawa have pretty similar averages.
+
+### AVG RATING FOR TOP ACTORS
+
+Regarding actors, let's see who has the highest average ratings:
+
+![Screenshot](/plots/plot_avgRatActors.png)
+
+> _**Morgan Freeman**_, pushed by the Top 1 and Top 4 movies (The Shawshank Redemption and Dark Knight, respectively) leads the top rated actors, with an average of **8.57/10**. Tom Hanks, known for his main role in Forrest Gump, follows at the second place with an average of **8.45/10**.
 
 ### AVG RATING BY DECADE
 ![Screenshot](/plots/plot_avgRatDecade.png)
@@ -89,11 +116,6 @@ The next plot shows the most frequent directors in the Top 250 Movies
 ### AVG RUNTIME BY DECADE
 ![Screenshot](/plots/plor_avgRunDecade.png)
 
-### AVG RATING FOR TOP ACTORS
-![Screenshot](/plots/plot_avgRatActors.png)
-
-### AVG RATING FOR TOP DIRECTORS
-![Screenshot](/plots/plot_avgRatDirect.png)
 
 ### RUNTIME DENSITY
 ![Screenshot](/plots/plot_FreqRunTime.png)
