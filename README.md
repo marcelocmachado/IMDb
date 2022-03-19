@@ -1,14 +1,14 @@
 # IMDb Web Scraping & EDA
+#### _*Marcelo de Campos Machado*_
 
-### _*Marcelo de Campos Machado*_
-
-#### DISCLAIMER: the code in this document is NOT intended for commercial purposes or for distribution. This is ONLY a Web Scraping practice. The data is property of iMDB.
+### _DISCLAIMER: the code in this document is NOT intended for commercial purposes or for distribution. This is ONLY a Web Scraping practice. The data is property of iMDB._
 
 ## WEB SCRAPING
 
-> Code
+> [Web Scraping Code](https://github.com/marcelocmachado/IMDb/blob/main/scrapingCode.md) 
 
-# EXPLORATORY DATA ANALYSIS
+
+## EXPLORATORY DATA ANALYSIS
 
 ```r
 some code
