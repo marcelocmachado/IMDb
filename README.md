@@ -7,6 +7,14 @@
 
 ## WEB SCRAPING
 
+Web scraping is the process of extracting data from a website in an automated way. In most cases, web scraping is not a simple task. Websites come in different structures, with many shapes and forms and, as a result, web scrapers vary in functionality and features.
+
+The simplest form of web scraping is manually copying and pasting data from a web page into a text file or spreadsheet. However, when you’re harvesting a large amount of data, this process can take too long.
+
+The data for this article was refers to a movie database called IMDb. The scraping was performed with R, utilizing the package _**‘rvest’**_.
+
+The web scraping code can be found in the following link:
+
 > [Web Scraping Code](https://github.com/marcelocmachado/IMDb/blob/main/scrapingCode.md) 
 
 
