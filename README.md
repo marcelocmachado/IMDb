@@ -3,7 +3,7 @@
 
 ![alt_text](https://static.amazon.jobs/teams/53/images/IMDb_Header_Page.jpg?1501027252)
 
-### _DISCLAIMER: the code in this document is NOT intended for commercial purposes or for distribution. This is ONLY a Web Scraping practice. The data is property of IMDb._
+### _DISCLAIMER: the code in this document is NOT intended for commercial purposes or distribution. This is ONLY a Web Scraping practice. The data is property of IMDb._
 
 ## INTRO
 
