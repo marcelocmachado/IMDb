@@ -20,40 +20,40 @@
 ![Screenshot](/plots/plot_topRatings.png)
 
 ### TOP VOTES
-![Screenshot](plot_topVotes.png)
+![Screenshot](/plots/plot_topVotes.png)
 
 ### MOST FREQUENT GENRES
-![Screenshot](plot_topGenres.png)
+![Screenshot](/plots/plot_topGenres.png)
 
 ### MOST POPULAR GENRE COMBINATION
-![Screenshot](plot_topCombos.png)
+![Screenshot](/plots/plot_topCombos.png)
 
 ### MOST FREQUENT YEARS
 
 
 ### MOST FREQUENT DIRECTORS
-![Screenshot](plot_topDirectors.png)
+![Screenshot](/plots/plot_topDirectors.png)
 
 ### MOST FREQUENT ACTORS
-![Screenshot](plot_topActors.png)
+![Screenshot](/plots/plot_topActors.png)
 
 ### AVG RATING BY DECADE
 ![Screenshot](plot_avgRatDecade.png)
 
 ### AVG RUNTIME BY DECADE
-![Screenshot](plor_avgRunDecade.png)
+![Screenshot](/plots/plor_avgRunDecade.png)
 
 ### AVG RATING FOR TOP ACTORS
-![Screenshot](plot_avgRatActors.png)
+![Screenshot](/plots/plot_avgRatActors.png)
 
 ### AVG RATING FOR TOP DIRECTORS
-![Screenshot](plot_avgRatDirect.png)
+![Screenshot](/plots/plot_avgRatDirect.png)
 
 ### RUNTIME DENSITY
-![Screenshot](plot_FreqRunTime.png)
+![Screenshot](/plots/plot_FreqRunTime.png)
 
 ### RATING DENSITY
-![Screenshot](plot_FreqRatings.png)
+![Screenshot](/plots/plot_FreqRatings.png)
 
 ```r
 some code
